@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data skiptest="1" noupdate="1">
+            <record model="country.subdivision" id="ec-a1">
+                <field name="name">Camilo Ponce Enriquez</field>
+                <field name="code">EC-A1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a2">
+                <field name="name">Chordeleg </field>
+                <field name="code">EC-A2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a3">
+                <field name="name">Cuenca</field>
+                <field name="code">EC-A3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a4">
+                <field name="name">El Pan</field>
+                <field name="code">EC-A4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a5">
+                <field name="name">Giron</field>
+                <field name="code">EC-A5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a6">
+                <field name="name">Guachapala</field>
+                <field name="code">EC-A6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a7">
+                <field name="name">Gualaceo</field>
+                <field name="code">EC-A7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a8">
+                <field name="name">Nabon</field>
+                <field name="code">EC-A8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a9">
+                <field name="name">Oña</field>
+                <field name="code">EC-A9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a10">
+                <field name="name">Paute</field>
+                <field name="code">EC-A10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a11">
+                <field name="name">Pucara </field>
+                <field name="code">EC-A11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a12">
+                <field name="name">San Fernando</field>
+                <field name="code">EC-A12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a13">
+                <field name="name">Santa Isabel</field>
+                <field name="code">EC-A13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a14">
+                <field name="name">Sevilla De Oro</field>
+                <field name="code">EC-A14</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-a15">
+                <field name="name">Sigsig</field>
+                <field name="code">EC-A15</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-a"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b1">
+                <field name="name">Caluma</field>
+                <field name="code">EC-B1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b2">
+                <field name="name">Chillanes</field>
+                <field name="code">EC-B2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b3">
+                <field name="name">Chimbo</field>
+                <field name="code">EC-B3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b4">
+                <field name="name">Echeandia</field>
+                <field name="code">EC-B4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b5">
+                <field name="name">Guaranda</field>
+                <field name="code">EC-B5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b6">
+                <field name="name">Las Naves</field>
+                <field name="code">EC-B6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-b7">
+                <field name="name">San Miguel</field>
+                <field name="code">EC-B7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-b"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c1">
+                <field name="name">Bolivar </field>
+                <field name="code">EC-C1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c2">
+                <field name="name">Espejo</field>
+                <field name="code">EC-C2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c3">
+                <field name="name">Mira</field>
+                <field name="code">EC-C3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c4">
+                <field name="name">Montufar</field>
+                <field name="code">EC-C4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c5">
+                <field name="name">San Pedro De Huaca</field>
+                <field name="code">EC-C5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-c6">
+                <field name="name">Tulcan</field>
+                <field name="code">EC-C6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-c"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f1">
+                <field name="name">Azogues</field>
+                <field name="code">EC-F1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f2">
+                <field name="name">Biblian</field>
+                <field name="code">EC-F2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f3">
+                <field name="name">Cañar </field>
+                <field name="code">EC-F3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f4">
+                <field name="name">Deleg</field>
+                <field name="code">EC-F4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f5">
+                <field name="name">El Tambo</field>
+                <field name="code">EC-F5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f6">
+                <field name="name">La Troncal</field>
+                <field name="code">EC-F6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-f7">
+                <field name="name">Suscal</field>
+                <field name="code">EC-F7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-f"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h1">
+                <field name="name">Alausi</field>
+                <field name="code">EC-H1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h2">
+                <field name="name">Chambo</field>
+                <field name="code">EC-H2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h3">
+                <field name="name">Chunchi</field>
+                <field name="code">EC-H3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h4">
+                <field name="name">Colta</field>
+                <field name="code">EC-H4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h5">
+                <field name="name">Cumanda</field>
+                <field name="code">EC-H5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h6">
+                <field name="name">Guamote</field>
+                <field name="code">EC-H6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h7">
+                <field name="name">Guano</field>
+                <field name="code">EC-H7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-h8">
+                <field name="name">Pallatanga</field>
+                <field name="code">EC-H8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-h"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x1">
+                <field name="name">La Mana</field>
+                <field name="code">EC-X1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x2">
+                <field name="name">Latacunga</field>
+                <field name="code">EC-X2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x3">
+                <field name="name">Pangua</field>
+                <field name="code">EC-X3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x4">
+                <field name="name">Pujili</field>
+                <field name="code">EC-X4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x5">
+                <field name="name">Salcedo</field>
+                <field name="code">EC-X5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x6">
+                <field name="name">Saquicili</field>
+                <field name="code">EC-X6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-x7">
+                <field name="name">Sigchos</field>
+                <field name="code">EC-X7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-x"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o1">
+                <field name="name">Arenillas</field>
+                <field name="code">EC-O1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o2">
+                <field name="name">Atahualpa</field>
+                <field name="code">EC-O2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o3">
+                <field name="name">Balsas</field>
+                <field name="code">EC-O3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o4">
+                <field name="name">Chilla</field>
+                <field name="code">EC-O4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o5">
+                <field name="name">El Guabo</field>
+                <field name="code">EC-O5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o6">
+                <field name="name">Huaquillas</field>
+                <field name="code">EC-O6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o7">
+                <field name="name">Las Lajas</field>
+                <field name="code">EC-O7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o8">
+                <field name="name">Machala</field>
+                <field name="code">EC-O8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o9">
+                <field name="name">Marcabeli</field>
+                <field name="code">EC-O9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o10">
+                <field name="name">Pasaje</field>
+                <field name="code">EC-O10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o11">
+                <field name="name">Piñas</field>
+                <field name="code">EC-O11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o12">
+                <field name="name">Portovelo</field>
+                <field name="code">EC-O12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o13">
+                <field name="name">Santa Rosa</field>
+                <field name="code">EC-O13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-o14">
+                <field name="name">Zaruma</field>
+                <field name="code">EC-O14</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-o"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e1">
+                <field name="name">Atacames</field>
+                <field name="code">EC-E1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e2">
+                <field name="name">Eloy Alfaro</field>
+                <field name="code">EC-E2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e3">
+                <field name="name">Esmeraldas</field>
+                <field name="code">EC-E3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e4">
+                <field name="name">La Concordia</field>
+                <field name="code">EC-E4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e5">
+                <field name="name">Muisne</field>
+                <field name="code">EC-E5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e6">
+                <field name="name">Quininde</field>
+                <field name="code">EC-E6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e7">
+                <field name="name">Rioverde</field>
+                <field name="code">EC-E7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-e8">
+                <field name="name">San Lorenzo</field>
+                <field name="code">EC-E8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-e"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-w1">
+                <field name="name">Isabela</field>
+                <field name="code">EC-W1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-w"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-w2">
+                <field name="name">San Cristobal</field>
+                <field name="code">EC-W2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-w"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-w3">
+                <field name="name">Santa Cruz</field>
+                <field name="code">EC-W3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-w"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g4">
+                <field name="name">Alfredo Baquerizo Moreno (JUJAN)</field>
+                <field name="code">EC-G4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g5">
+                <field name="name">Balao</field>
+                <field name="code">EC-G5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g6">
+                <field name="name">Balzar </field>
+                <field name="code">EC-G6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g7">
+                <field name="name">Colimes</field>
+                <field name="code">EC-G7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g8">
+                <field name="name">Crnel. Marcelino Maridueña</field>
+                <field name="code">EC-G8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g9">
+                <field name="name">Daule </field>
+                <field name="code">EC-G9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g10">
+                <field name="name">Duran</field>
+                <field name="code">EC-G10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g11">
+                <field name="name">El Empalme</field>
+                <field name="code">EC-G11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g12">
+                <field name="name">El Triunfo</field>
+                <field name="code">EC-G12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g13">
+                <field name="name">Crnel. Antonio Elizalde</field>
+                <field name="code">EC-G13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g14">
+                <field name="name">Guayaquil</field>
+                <field name="code">EC-G14</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g15">
+                <field name="name">Isidro Ayora</field>
+                <field name="code">EC-G15</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g16">
+                <field name="name">Lomas De Sartentillo</field>
+                <field name="code">EC-G16</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g17">
+                <field name="name">Milagro</field>
+                <field name="code">EC-G17</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g18">
+                <field name="name">Naranjal </field>
+                <field name="code">EC-G18</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g19">
+                <field name="name">Naranjito</field>
+                <field name="code">EC-G19</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g20">
+                <field name="name">Nobol</field>
+                <field name="code">EC-G20</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g21">
+                <field name="name">Palestina</field>
+                <field name="code">EC-G21</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g22">
+                <field name="name">Pedro Carbo</field>
+                <field name="code">EC-G22</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g23">
+                <field name="name">Playas </field>
+                <field name="code">EC-G23</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g24">
+                <field name="name">Salinas ( Salinas Cab. Cantonal)</field>
+                <field name="code">EC-G24</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g25">
+                <field name="name">Salitre</field>
+                <field name="code">EC-G25</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g26">
+                <field name="name">Samborondon</field>
+                <field name="code">EC-G26</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g27">
+                <field name="name">San Jacinto De Yaguachi</field>
+                <field name="code">EC-G27</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g28">
+                <field name="name">Santa Lucia</field>
+                <field name="code">EC-G28</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-g29">
+                <field name="name">Simon Bolivar</field>
+                <field name="code">EC-G29</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-g"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i1">
+                <field name="name">Antonio Ante</field>
+                <field name="code">EC-I1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i2">
+                <field name="name">Cotacachi</field>
+                <field name="code">EC-I2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i3">
+                <field name="name">Ibarra</field>
+                <field name="code">EC-I3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i4">
+                <field name="name">Otavalo</field>
+                <field name="code">EC-I4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i5">
+                <field name="name">Pimampiro</field>
+                <field name="code">EC-I5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-i6">
+                <field name="name">San Miguel De Urcuqui</field>
+                <field name="code">EC-I6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-i"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l1">
+                <field name="name">Calvas </field>
+                <field name="code">EC-L1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l2">
+                <field name="name">Catamayo</field>
+                <field name="code">EC-L2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l3">
+                <field name="name">Celica</field>
+                <field name="code">EC-L3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l4">
+                <field name="name">Chaguarpamba</field>
+                <field name="code">EC-L4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l5">
+                <field name="name">Espindola</field>
+                <field name="code">EC-L5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l6">
+                <field name="name">Gonzanama</field>
+                <field name="code">EC-L6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l7">
+                <field name="name">Loja</field>
+                <field name="code">EC-L7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l8">
+                <field name="name">Macara</field>
+                <field name="code">EC-L8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l9">
+                <field name="name">Olmedo</field>
+                <field name="code">EC-L9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l10">
+                <field name="name">Paltas</field>
+                <field name="code">EC-L10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l11">
+                <field name="name">Pindal</field>
+                <field name="code">EC-L11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l12">
+                <field name="name">Puyango</field>
+                <field name="code">EC-L12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l13">
+                <field name="name">Quilanga</field>
+                <field name="code">EC-L13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l14">
+                <field name="name">Saraguro</field>
+                <field name="code">EC-L14</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l15">
+                <field name="name">Sozoranga</field>
+                <field name="code">EC-L15</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-l16">
+                <field name="name">Zapotillo</field>
+                <field name="code">EC-L16</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-l"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r1">
+                <field name="name">Baba</field>
+                <field name="code">EC-R1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r2">
+                <field name="name">Babahoyo</field>
+                <field name="code">EC-R2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r3">
+                <field name="name">Buena Fe</field>
+                <field name="code">EC-R3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r4">
+                <field name="name">Mocache</field>
+                <field name="code">EC-R4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r5">
+                <field name="name">Montalvo</field>
+                <field name="code">EC-R5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r6">
+                <field name="name">Palenque</field>
+                <field name="code">EC-R6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r7">
+                <field name="name">Pueblo Viejo</field>
+                <field name="code">EC-R7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r8">
+                <field name="name">Quevedo</field>
+                <field name="code">EC-R8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r9">
+                <field name="name">Quinsaloma</field>
+                <field name="code">EC-R9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r10">
+                <field name="name">Urdaneta</field>
+                <field name="code">EC-R10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r11">
+                <field name="name">Valencia</field>
+                <field name="code">EC-R11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r12">
+                <field name="name">Ventanas</field>
+                <field name="code">EC-R12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-r13">
+                <field name="name">Vinces</field>
+                <field name="code">EC-R13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-r"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m1">
+                <field name="name">24 De Mayo</field>
+                <field name="code">EC-M1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m2">
+                <field name="name">Bolivar</field>
+                <field name="code">EC-M2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m3">
+                <field name="name">Chone</field>
+                <field name="code">EC-M3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m4">
+                <field name="name">El Carmen</field>
+                <field name="code">EC-M4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m5">
+                <field name="name">Flavio Alvaro</field>
+                <field name="code">EC-M5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m6">
+                <field name="name">Jama</field>
+                <field name="code">EC-M6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m7">
+                <field name="name">Jaramijo</field>
+                <field name="code">EC-M7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m8">
+                <field name="name">Jipijapa</field>
+                <field name="code">EC-M8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m9">
+                <field name="name">Jupin</field>
+                <field name="code">EC-M9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m10">
+                <field name="name">Manta</field>
+                <field name="code">EC-M10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m11">
+                <field name="name">Montecristi</field>
+                <field name="code">EC-M11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m12">
+                <field name="name">Olmedo</field>
+                <field name="code">EC-M12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m13">
+                <field name="name">Pajan</field>
+                <field name="code">EC-M13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m14">
+                <field name="name">Pedernales</field>
+                <field name="code">EC-M14</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m15">
+                <field name="name">Pichincha</field>
+                <field name="code">EC-M15</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m16">
+                <field name="name">Portoviejo</field>
+                <field name="code">EC-M16</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m17">
+                <field name="name">Puerto Lopez</field>
+                <field name="code">EC-M17</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m18">
+                <field name="name">Rocafuerte</field>
+                <field name="code">EC-M18</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m19">
+                <field name="name">Santa Ana</field>
+                <field name="code">EC-M19</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m20">
+                <field name="name">San Vicente</field>
+                <field name="code">EC-M20</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m21">
+                <field name="name">Sucre</field>
+                <field name="code">EC-M21</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-m22">
+                <field name="name">Tosagua</field>
+                <field name="code">EC-M22</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-m"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s1">
+                <field name="name">Gualaquiza</field>
+                <field name="code">EC-S1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s2">
+                <field name="name">Huamboya</field>
+                <field name="code">EC-S2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s3">
+                <field name="name">Limon Indanza</field>
+                <field name="code">EC-S3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s4">
+                <field name="name">Logroño</field>
+                <field name="code">EC-S4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s5">
+                <field name="name">Macas</field>
+                <field name="code">EC-S5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s6">
+                <field name="name">Morona</field>
+                <field name="code">EC-S6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s7">
+                <field name="name">Pablo Sexto</field>
+                <field name="code">EC-S7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s8">
+                <field name="name">Palora</field>
+                <field name="code">EC-S8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s9">
+                <field name="name">San Juan Bosco</field>
+                <field name="code">EC-S9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s10">
+                <field name="name">Santiago</field>
+                <field name="code">EC-S10</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s11">
+                <field name="name">Sucua</field>
+                <field name="code">EC-S11</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s12">
+                <field name="name">Taisha</field>
+                <field name="code">EC-S12</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-s13">
+                <field name="name">Tiwintza</field>
+                <field name="code">EC-S13</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-s"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-n1">
+                <field name="name">Archidona</field>
+                <field name="code">EC-N1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-n"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-n2">
+                <field name="name">Carlos Julio Arosemena Tola</field>
+                <field name="code">EC-N2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-n"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-n3">
+                <field name="name">El Chaco</field>
+                <field name="code">EC-N3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-n"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-n4">
+                <field name="name">Quijos</field>
+                <field name="code">EC-N4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-n"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-n5">
+                <field name="name">Tena</field>
+                <field name="code">EC-N5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-n"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-d1">
+                <field name="name">Aguarico</field>
+                <field name="code">EC-D1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-d"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-d2">
+                <field name="name">La Joya De Los Sachas</field>
+                <field name="code">EC-D2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-d"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-d3">
+                <field name="name">Loreto</field>
+                <field name="code">EC-D3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-d"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-d4">
+                <field name="name">Puerto Francisco De Orellana</field>
+                <field name="code">EC-D4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-d"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-y1">
+                <field name="name">Arajuno</field>
+                <field name="code">EC-Y1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-y"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-y2">
+                <field name="name">Mera</field>
+                <field name="code">EC-Y2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-y"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-y3">
+                <field name="name">Pastaza</field>
+                <field name="code">EC-Y3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-y"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-y4">
+                <field name="name">Santa Clara</field>
+                <field name="code">EC-Y4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-y"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p1">
+                <field name="name">Cayambe Mejia</field>
+                <field name="code">EC-P1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p2">
+                <field name="name">Mejia</field>
+                <field name="code">EC-P2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p3">
+                <field name="name">Pedro Moncayo</field>
+                <field name="code">EC-P3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p4">
+                <field name="name">Pedro Vicente  Maldonado</field>
+                <field name="code">EC-P4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p5">
+                <field name="name">Puerto Quito</field>
+                <field name="code">EC-P5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p6">
+                <field name="name">Quito</field>
+                <field name="code">EC-P6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p7">
+                <field name="name">Rumiñahui</field>
+                <field name="code">EC-P7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-p8">
+                <field name="name">San Miguel De Los Bancos</field>
+                <field name="code">EC-P8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-p"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-se1">
+                <field name="name">La Libertad</field>
+                <field name="code">EC-SE1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-se"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-se2">
+                <field name="name">Salinas</field>
+                <field name="code">EC-SE2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-se"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-se3">
+                <field name="name">Santa Elena</field>
+                <field name="code">EC-SE3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-se"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-sd1">
+                <field name="name">Santo Domingo De Los Tsachilas</field>
+                <field name="code">EC-SD1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-sd"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u1">
+                <field name="name">Cascales</field>
+                <field name="code">EC-U1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u2">
+                <field name="name">Cuyabeno</field>
+                <field name="code">EC-U2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u3">
+                <field name="name">Gonzalo Pizarro</field>
+                <field name="code">EC-U3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u4">
+                <field name="name">Lago Agrio</field>
+                <field name="code">EC-U4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u5">
+                <field name="name">Nueva Loja</field>
+                <field name="code">EC-U5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u6">
+                <field name="name">Putumayo</field>
+                <field name="code">EC-U6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u7">
+                <field name="name">Shushufindi</field>
+                <field name="code">EC-U6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-u8">
+                <field name="name">Sucumbios</field>
+                <field name="code">EC-U7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-u"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t1">
+                <field name="name">Ambato</field>
+                <field name="code">EC-T1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t2">
+                <field name="name">Baños De Agua Santa</field>
+                <field name="code">EC-T2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t3">
+                <field name="name">Cevallos</field>
+                <field name="code">EC-T3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t4">
+                <field name="name">Mocha</field>
+                <field name="code">EC-T4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t5">
+                <field name="name">Patate</field>
+                <field name="code">EC-T5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t6">
+                <field name="name">Quero</field>
+                <field name="code">EC-T6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t7">
+                <field name="name">San Pedro De Pelileo</field>
+                <field name="code">EC-T7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t8">
+                <field name="name">Santiago De Pillaro</field>
+                <field name="code">EC-T8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-t9">
+                <field name="name">Tisaleo</field>
+                <field name="code">EC-T9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-t"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z1">
+                <field name="name">Centinela Del Condor</field>
+                <field name="code">EC-Z1</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z2">
+                <field name="name">Chinchipe</field>
+                <field name="code">EC-Z2</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z3">
+                <field name="name">El Pangui</field>
+                <field name="code">EC-Z3</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z4">
+                <field name="name">Nangaritza</field>
+                <field name="code">EC-Z4</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z5">
+                <field name="name">Palanda</field>
+                <field name="code">EC-Z5</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z6">
+                <field name="name">Paquisha</field>
+                <field name="code">EC-Z6</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z7">
+                <field name="name">Yacuambi</field>
+                <field name="code">EC-Z7</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z8">
+                <field name="name">Yantzaza</field>
+                <field name="code">EC-Z8</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+            <record model="country.subdivision" id="ec-z9">
+                <field name="name">Zamora</field>
+                <field name="code">EC-Z9</field>
+                <field name="type">city</field>
+                <field name="parent" ref="country.ec-z"/>
+                <field name="country" ref="country.ec"/>
+        </record>
+    </data>
+</tryton>

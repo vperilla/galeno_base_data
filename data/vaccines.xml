@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data skiptest="1" noupdate="1">
+        <record model="galeno.vaccine" id="vaccine_1">
+            <field name="code">BCG</field>
+            <field name="name">BCG</field>
+            <field name="description">1 Dose</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_2">
+            <field name="code">Hepatitis B</field>
+            <field name="name">Vaccine against Hepatitis B</field>
+            <field name="description">4 doses, 1 dose: for children whose mothers are HBsAg positive.</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_3">
+            <field name="code">(MMR)</field>
+            <field name="name">Vaccine against mumps, measles and rubella (MMR)</field>
+            <field name="description">2 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_4">
+            <field name="code">Hemophilic type b</field>
+            <field name="name">Vaccine against hemophilic influenza type b</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_5">
+            <field name="code">Meningococcal Meningitis</field>
+            <field name="name">Vaccine against meningococcal meningitis</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_6">
+            <field name="code">Pneumococcus</field>
+            <field name="name">Vaccine against pneumococcus</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_7">
+            <field name="code">Human papilloma</field>
+            <field name="name">Vaccine against human papillomavirus</field>
+            <field name="description">2 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_8">
+            <field name="code">OPV</field>
+            <field name="name">Polio vaccine (oral poliomyelitis)</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_9">
+            <field name="code">Varicella</field>
+            <field name="name">Varicella vaccine</field>
+            <field name="description">2 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_10">
+            <field name="code">Rotavirus</field>
+            <field name="name">Vaccine against rotavirus</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_11">
+            <field name="code">Anti-influenza</field>
+            <field name="name">Anti influenza</field>
+            <field name="description">2 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_12">
+            <field name="code">Hepatitis A</field>
+            <field name="name">Vaccine against Hepatitis A</field>
+            <field name="description">Two doses, separated by a minimum interval of 6 months.</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_13">
+            <field name="code">DPTa 3</field>
+            <field name="name">Diphtheria, Tetanus, Whooping Cough (DTPa) vaccine</field>
+            <field name="description">3 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_14">
+            <field name="code">Tdpa - VPI</field>
+            <field name="name">Vaccine against diphtheria, tetanus and whooping cough (Tdpa – VPI)</field>
+            <field name="description">1 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_15">
+            <field name="code">Tdpa 1</field>
+            <field name="name">Vaccine against diphtheria, tetanus and whooping cough (Tdpa)</field>
+            <field name="description">1 Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_16">
+            <field name="code">MenC / MenACWY</field>
+            <field name="name">Vaccine against meningococcal meningitis (MenC / MenACWY)</field>
+            <field name="description">3  Doses</field>
+        </record>
+        <record model="galeno.vaccine" id="vaccine_17">
+            <field name="code">MenB</field>
+            <field name="name">Vaccine against meningococcal meningitis B (MenB)</field>
+            <field name="description">3 Doses</field>
+        </record>
+    </data>
+</tryton>

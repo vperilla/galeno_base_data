@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data skiptest="1" noupdate="1">
+        <record model="galeno.test.category" id="category_test_1">
+            <field name="name">Laboratory (BACTEREOLOGY)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_2">
+            <field name="name">Laboratory (COPROLÓGICO)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_3">
+            <field name="name">Laboratory (HEMATOLOGIA)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_4">
+            <field name="name">Laboratory (CHEMISTRY SANGUINEA)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_5">
+            <field name="name">Laboratory (SEROLOGY)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_6">
+            <field name="name">Laboratory (UROANALYSIS)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_7">
+            <field name="name">Imaging (ECOGRAPHY)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_8">
+            <field name="name">Imaging (PROCEDURES)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_9">
+            <field name="name">Imaging (RESONANCE)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_10">
+            <field name="name">Imaging (conventional R-X)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_11">
+            <field name="name">Imaging (CONVENTIONAL RX)</field>
+        </record>
+        <record model="galeno.test.category" id="category_test_12">
+            <field name="name">Imaging (TOMOGRAPHY)</field>
+        </record>
+    </data>
+</tryton>
