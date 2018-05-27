@@ -2790,6 +2790,298 @@ msgctxt "model:galeno.occupation,name:occ99"
 msgid "Crystallographer"
 msgstr "Cristalógrafo"
 
+msgctxt "model:galeno.speciality,name:speciality_10"
+msgid "Clinical Neurophysiology"
+msgstr "Neurofisiología clínica"
+
+msgctxt "model:galeno.speciality,name:speciality_11"
+msgid "Dermatology"
+msgstr "Dermatología"
+
+msgctxt "model:galeno.speciality,name:speciality_12"
+msgid "Nutrition"
+msgstr "Nutrición"
+
+msgctxt "model:galeno.speciality,name:speciality_13"
+msgid "Embryology"
+msgstr "Embriología"
+
+msgctxt "model:galeno.speciality,name:speciality_14"
+msgid "Emergency medicine"
+msgstr "Medicina de emergencias"
+
+msgctxt "model:galeno.speciality,name:speciality_15"
+msgid "Endocrinology"
+msgstr "Endocrinología"
+
+msgctxt "model:galeno.speciality,name:speciality_16"
+msgid "Family Medicine"
+msgstr "Medicina Familiar"
+
+msgctxt "model:galeno.speciality,name:speciality_17"
+msgid "Forensic Medicine"
+msgstr "Medicina Forense"
+
+msgctxt "model:galeno.speciality,name:speciality_18"
+msgid "Gastroenterology"
+msgstr "Gastroenterología"
+
+msgctxt "model:galeno.speciality,name:speciality_19"
+msgid "General surgery"
+msgstr "Cirugía general"
+
+msgctxt "model:galeno.speciality,name:speciality_2"
+msgid "Anatomy"
+msgstr "Anatomía"
+
+msgctxt "model:galeno.speciality,name:speciality_20"
+msgid "Genetics"
+msgstr "Genética"
+
+msgctxt "model:galeno.speciality,name:speciality_21"
+msgid "Geriatrics"
+msgstr "Geriatría"
+
+msgctxt "model:galeno.speciality,name:speciality_22"
+msgid "Gynecology"
+msgstr "Ginecología"
+
+msgctxt "model:galeno.speciality,name:speciality_23"
+msgid "Hematology"
+msgstr "Hematología"
+
+msgctxt "model:galeno.speciality,name:speciality_24"
+msgid "Hepatology"
+msgstr "Hepatología"
+
+msgctxt "model:galeno.speciality,name:speciality_25"
+msgid "Histology"
+msgstr "Histología"
+
+msgctxt "model:galeno.speciality,name:speciality_26"
+msgid "Immunology"
+msgstr "Inmunología"
+
+msgctxt "model:galeno.speciality,name:speciality_27"
+msgid "Infectious disease"
+msgstr "Enfermedades infecciosas"
+
+msgctxt "model:galeno.speciality,name:speciality_28"
+msgid "Intensive care medicine"
+msgstr "Medicina de cuidados intensivos"
+
+msgctxt "model:galeno.speciality,name:speciality_29"
+msgid "Maxillofacial surgery"
+msgstr "Cirugía maxilofacial"
+
+msgctxt "model:galeno.speciality,name:speciality_3"
+msgid "Andrology"
+msgstr "Andrología"
+
+msgctxt "model:galeno.speciality,name:speciality_30"
+msgid "Nephrology"
+msgstr "Nefrología"
+
+msgctxt "model:galeno.speciality,name:speciality_31"
+msgid "Neurology"
+msgstr "Neurología"
+
+msgctxt "model:galeno.speciality,name:speciality_32"
+msgid "Neurosurgery"
+msgstr "Neurocirugía"
+
+msgctxt "model:galeno.speciality,name:speciality_33"
+msgid "Nursing"
+msgstr "Enfermería"
+
+msgctxt "model:galeno.speciality,name:speciality_34"
+msgid "Obstetrics and gynecology"
+msgstr "Ginecología y Obstetricia"
+
+msgctxt "model:galeno.speciality,name:speciality_35"
+msgid "Oncology"
+msgstr "Oncología"
+
+msgctxt "model:galeno.speciality,name:speciality_36"
+msgid "Ophthalmology"
+msgstr "Oftalmología"
+
+msgctxt "model:galeno.speciality,name:speciality_37"
+msgid "Orthopedic surgery"
+msgstr "Cirugía ortopédica"
+
+msgctxt "model:galeno.speciality,name:speciality_38"
+msgid "Otolaryngology - ENT"
+msgstr "Otorrinolaringología - ENT"
+
+msgctxt "model:galeno.speciality,name:speciality_39"
+msgid "Palliative care"
+msgstr "Cuidados paliativos"
+
+msgctxt "model:galeno.speciality,name:speciality_4"
+msgid "Alternative Medicine"
+msgstr "Medicina Alternativa"
+
+msgctxt "model:galeno.speciality,name:speciality_40"
+msgid "Pathology"
+msgstr "Patología"
+
+msgctxt "model:galeno.speciality,name:speciality_41"
+msgid "Pediatrics"
+msgstr "Pediatría"
+
+msgctxt "model:galeno.speciality,name:speciality_42"
+msgid "Pediatric surgery"
+msgstr "Cirugía pediátrica"
+
+msgctxt "model:galeno.speciality,name:speciality_43"
+msgid "Pharmacology"
+msgstr "Farmacología"
+
+msgctxt "model:galeno.speciality,name:speciality_44"
+msgid "Physical medicine and rehabilitation"
+msgstr "Medicina física y rehabilitación"
+
+msgctxt "model:galeno.speciality,name:speciality_45"
+msgid "Plastic surgery"
+msgstr "Cirugía plástica"
+
+msgctxt "model:galeno.speciality,name:speciality_46"
+msgid "Proctology"
+msgstr "Proctología"
+
+msgctxt "model:galeno.speciality,name:speciality_47"
+msgid "Psychiatry"
+msgstr "Psiquiatría"
+
+msgctxt "model:galeno.speciality,name:speciality_48"
+msgid "Pulmonology"
+msgstr "Neumología"
+
+msgctxt "model:galeno.speciality,name:speciality_49"
+msgid "Radiology"
+msgstr "Radiología"
+
+msgctxt "model:galeno.speciality,name:speciality_5"
+msgid "Anesthesiology"
+msgstr "Anestesiología"
+
+msgctxt "model:galeno.speciality,name:speciality_50"
+msgid "Rheumatology"
+msgstr "Reumatología"
+
+msgctxt "model:galeno.speciality,name:speciality_51"
+msgid "Stomatology"
+msgstr "Estomatología"
+
+msgctxt "model:galeno.speciality,name:speciality_52"
+msgid "Surgical oncology"
+msgstr "Oncología quirúrgica"
+
+msgctxt "model:galeno.speciality,name:speciality_53"
+msgid "Thoracic surgery"
+msgstr "Cirugía torácica"
+
+msgctxt "model:galeno.speciality,name:speciality_54"
+msgid "Toxicology"
+msgstr "Toxicología"
+
+msgctxt "model:galeno.speciality,name:speciality_55"
+msgid "Transplant surgery"
+msgstr "Cirugía de trasplante"
+
+msgctxt "model:galeno.speciality,name:speciality_56"
+msgid "Trauma surgery"
+msgstr "Traumatólogo"
+
+msgctxt "model:galeno.speciality,name:speciality_57"
+msgid "Urgent Care Medicine"
+msgstr "Medicina de urgencia"
+
+msgctxt "model:galeno.speciality,name:speciality_58"
+msgid "Urology"
+msgstr "Urología"
+
+msgctxt "model:galeno.speciality,name:speciality_59"
+msgid "Vascular surgery"
+msgstr "Cirugía vascular"
+
+msgctxt "model:galeno.speciality,name:speciality_6"
+msgid "Biochemistry"
+msgstr "Bioquímica"
+
+msgctxt "model:galeno.speciality,name:speciality_60"
+msgid "General Practitioner"
+msgstr "Médico clínico"
+
+msgctxt "model:galeno.speciality,name:speciality_61"
+msgid "Internal Medicine"
+msgstr "Medicina Interna"
+
+msgctxt "model:galeno.speciality,name:speciality_62"
+msgid "Speech Therapy / Phonoaudiology"
+msgstr "Terapia del habla / Fonoaudiología"
+
+msgctxt "model:galeno.speciality,name:speciality_63"
+msgid "Psychology"
+msgstr "Psicología"
+
+msgctxt "model:galeno.speciality,name:speciality_64"
+msgid "Pain Medicine"
+msgstr "Medicina paliativa"
+
+msgctxt "model:galeno.speciality,name:speciality_65"
+msgid "Integrative Medicine"
+msgstr "Medicina Integral"
+
+msgctxt "model:galeno.speciality,name:speciality_66"
+msgid "Neonatology"
+msgstr "Neonatología"
+
+msgctxt "model:galeno.speciality,name:speciality_67"
+msgid "Cardiothoracic Surgery"
+msgstr "Cirugía Cardiotorácica"
+
+msgctxt "model:galeno.speciality,name:speciality_68"
+msgid "Obstetrics"
+msgstr "Obstetricia"
+
+msgctxt "model:galeno.speciality,name:speciality_7"
+msgid "Cardiology"
+msgstr "Cardiología"
+
+msgctxt "model:galeno.speciality,name:speciality_70"
+msgid "Primary Care"
+msgstr "Atención Primaria"
+
+msgctxt "model:galeno.speciality,name:speciality_71"
+msgid "Family Planning (Primary Care)"
+msgstr "Planificación Familiar (Atención Primaria)"
+
+msgctxt "model:galeno.speciality,name:speciality_72"
+msgid "Social Services"
+msgstr "Servicios Sociales"
+
+msgctxt "model:galeno.speciality,name:speciality_73"
+msgid "Oral Medicine (Primary Care)"
+msgstr "Medicina Oral (Atención Primaria)"
+
+msgctxt "model:galeno.speciality,name:speciality_74"
+msgid "Child Health (Primary Care)"
+msgstr "Salud Infantil (Atención Primaria)"
+
+msgctxt "model:galeno.speciality,name:speciality_75"
+msgid "Woman Health (Primary Care)"
+msgstr "Salud de la Mujer (Atención Primaria)"
+
+msgctxt "model:galeno.speciality,name:speciality_8"
+msgid "Cardiovascular surgery"
+msgstr "Cirugía cardiovascular"
+
+msgctxt "model:galeno.speciality,name:speciality_9"
+msgid "Clinical laboratory sciences"
+msgstr "Ciencias clínicas de laboratorio"
+
 msgctxt "error:galeno.ethnic.group:"
 msgid "CODE must be unique !"
 msgstr "¡El CÓDIGO debe ser único!"

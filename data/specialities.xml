@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data noupdate="1" skiptest="1">
+
+        <record model="galeno.speciality" id="speciality_2">
+            <field name="code">ANATOMY</field>
+            <field name="name">Anatomy</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_3">
+            <field name="code">ANDROLOGY</field>
+            <field name="name">Andrology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_4">
+            <field name="code">ALTERNATIVE</field>
+            <field name="name">Alternative Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_5">
+            <field name="code">ANESTHESIO</field>
+            <field name="name">Anesthesiology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_6">
+            <field name="code">BIOCHEM</field>
+            <field name="name">Biochemistry</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_7">
+            <field name="code">CARDIO</field>
+            <field name="name">Cardiology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_8">
+            <field name="code">CARDIOSURG</field>
+            <field name="name">Cardiovascular surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_9">
+            <field name="code">LAB</field>
+            <field name="name">Clinical laboratory sciences</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_10">
+            <field name="code">NEUROPHYSIO</field>
+            <field name="name">Clinical Neurophysiology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_11">
+            <field name="code">DS</field>
+            <field name="name">Dermatology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_12">
+            <field name="code">NUTRITION</field>
+            <field name="name">Nutrition</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_13">
+            <field name="code">EMBRYO</field>
+            <field name="name">Embryology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_14">
+            <field name="code">EMERGENCY</field>
+            <field name="name">Emergency medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_15">
+            <field name="code">ENDOCRINO</field>
+            <field name="name">Endocrinology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_16">
+            <field name="code">FAMILY</field>
+            <field name="name">Family Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_17">
+            <field name="code">FORENSIC</field>
+            <field name="name">Forensic Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_18">
+            <field name="code">GASTRO</field>
+            <field name="name">Gastroenterology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_19">
+            <field name="code">GENERALSURG</field>
+            <field name="name">General surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_20">
+            <field name="code">GENETICS</field>
+            <field name="name">Genetics</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_21">
+            <field name="code">GERIATRICS</field>
+            <field name="name">Geriatrics</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_22">
+            <field name="code">GYN</field>
+            <field name="name">Gynecology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_23">
+            <field name="code">HEMATO</field>
+            <field name="name">Hematology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_24">
+            <field name="code">HEPATO</field>
+            <field name="name">Hepatology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_25">
+            <field name="code">HISTOLOGY</field>
+            <field name="name">Histology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_26">
+            <field name="code">IMMUNO</field>
+            <field name="name">Immunology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_27">
+            <field name="code">INFECTIOUS</field>
+            <field name="name">Infectious disease</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_28">
+            <field name="code">INTENSIVECARE</field>
+            <field name="name">Intensive care medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_29">
+            <field name="code">MAXILLOFACIALSURG</field>
+            <field name="name">Maxillofacial surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_30">
+            <field name="code">NEPHRO</field>
+            <field name="name">Nephrology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_31">
+            <field name="code">NEURO</field>
+            <field name="name">Neurology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_32">
+            <field name="code">NEUROSURG</field>
+            <field name="name">Neurosurgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_33">
+            <field name="code">NURSING</field>
+            <field name="name">Nursing</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_34">
+            <field name="code">OBGYN</field>
+            <field name="name">Obstetrics and gynecology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_35">
+            <field name="code">ONCO</field>
+            <field name="name">Oncology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_36">
+            <field name="code">OPHTALMO</field>
+            <field name="name">Ophthalmology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_37">
+            <field name="code">ORTHOSURG</field>
+            <field name="name">Orthopedic surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_38">
+            <field name="code">ENT</field>
+            <field name="name">Otolaryngology - ENT</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_39">
+            <field name="code">PALLIATIVE</field>
+            <field name="name">Palliative care</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_40">
+            <field name="code">PATHOLOGY</field>
+            <field name="name">Pathology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_41">
+            <field name="code">PEDIATRICS</field>
+            <field name="name">Pediatrics</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_42">
+            <field name="code">PEDIATRICSURG</field>
+            <field name="name">Pediatric surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_43">
+            <field name="code">PHARMA</field>
+            <field name="name">Pharmacology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_44">
+            <field name="code">PHYSICALREHAB</field>
+            <field name="name">Physical medicine and rehabilitation</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_45">
+            <field name="code">PLASTICSURG</field>
+            <field name="name">Plastic surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_46">
+            <field name="code">PROCTO</field>
+            <field name="name">Proctology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_47">
+            <field name="code">PSYCHIATRY</field>
+            <field name="name">Psychiatry</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_48">
+            <field name="code">PULMO</field>
+            <field name="name">Pulmonology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_49">
+            <field name="code">RADIO</field>
+            <field name="name">Radiology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_50">
+            <field name="code">RHEUMATO</field>
+            <field name="name">Rheumatology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_51">
+            <field name="code">STOMATO</field>
+            <field name="name">Stomatology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_52">
+            <field name="code">SURGICALONCO</field>
+            <field name="name">Surgical oncology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_53">
+            <field name="code">THORACICSURG</field>
+            <field name="name">Thoracic surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_54">
+            <field name="code">TOXICO</field>
+            <field name="name">Toxicology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_55">
+            <field name="code">TRANSPLANTSURG</field>
+            <field name="name">Transplant surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_56">
+            <field name="code">TRAUMASURG</field>
+            <field name="name">Trauma surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_57">
+            <field name="code">URGENTCARE</field>
+            <field name="name">Urgent Care Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_58">
+            <field name="code">UROLOGY</field>
+            <field name="name">Urology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_59">
+            <field name="code">VASCULARSURG</field>
+            <field name="name">Vascular surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_60">
+            <field name="code">GP</field>
+            <field name="name">General Practitioner</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_61">
+            <field name="code">INTERNAL</field>
+            <field name="name">Internal Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_62">
+            <field name="code">PHONO</field>
+            <field name="name">Speech Therapy / Phonoaudiology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_63">
+            <field name="code">PSYCHO</field>
+            <field name="name">Psychology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_64">
+            <field name="code">PAIN</field>
+            <field name="name">Pain Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_65">
+            <field name="code">INTEGRATIVE</field>
+            <field name="name">Integrative Medicine</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_66">
+            <field name="code">NEONATO</field>
+            <field name="name">Neonatology</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_67">
+            <field name="code">CARDIOTHORAXSURG</field>
+            <field name="name">Cardiothoracic Surgery</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_68">
+            <field name="code">OBS</field>
+            <field name="name">Obstetrics</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_70">
+            <field name="code">PRIMARYCARE</field>
+            <field name="name">Primary Care</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_71">
+            <field name="code">PRIMARY-FAMILYPLANNING</field>
+            <field name="name">Family Planning (Primary Care)</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_72">
+            <field name="code">SOCIALSERVICE</field>
+            <field name="name">Social Services</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_73">
+            <field name="code">PRIMARY-ORAL</field>
+            <field name="name">Oral Medicine (Primary Care)</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_74">
+            <field name="code">PRIMARY-CHILD</field>
+            <field name="name">Child Health (Primary Care)</field>
+        </record>
+        <record model="galeno.speciality" id="speciality_75">
+            <field name="code">PRIMARY-WOMAN</field>
+            <field name="name">Woman Health (Primary Care)</field>
+        </record>
+    </data>
+</tryton>
