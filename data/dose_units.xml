@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data skiptest="1" noupdate="1">
+
+        <record model="galeno.medicament.dose.unit" id="ml">
+            <field name="name">mL</field>
+            <field name="description">milliliter</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="mg">
+            <field name="name">mg</field>
+            <field name="description">milligram</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="l">
+            <field name="name">L</field>
+            <field name="description">liter</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="kg">
+            <field name="name">kg</field>
+            <field name="description">kilogram</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="mmol">
+            <field name="name">mmol</field>
+            <field name="description">millimol</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="ug">
+            <field name="name">ug</field>
+            <field name="description">microgram</field>
+        </record>
+        <record model="galeno.medicament.dose.unit" id="unit">
+            <field name="name">unit</field>
+            <field name="description">unit</field>
+        </record>
+
+    </data>
+</tryton>

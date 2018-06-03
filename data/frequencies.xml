@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tryton>
+    <data skiptest="1" noupdate="1">
+
+        <record model="galeno.medicament.frequency" id="freq_1">
+            <field name="name">1 time per day</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_2">
+            <field name="name">1 time per day in the morning</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_3">
+            <field name="name">1 time per day in the evening</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_4">
+            <field name="name">1 time per day at bedtime</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_5">
+            <field name="name">2 times per day</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_6">
+            <field name="name">3 times per day</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_7">
+            <field name="name">3 times per day, before meals</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_8">
+            <field name="name">3 times per day, with meals</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_9">
+            <field name="name">4 times per day</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_10">
+            <field name="name">every 2 hours</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_11">
+            <field name="name">every 4 hours</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_12">
+            <field name="name">every 6 hours</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_13">
+            <field name="name">every 8 hours</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_14">
+            <field name="name">every 12 hours</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_15">
+            <field name="name">every other day</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_16">
+            <field name="name">1 time per week</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_17">
+            <field name="name">every two weeks</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_18">
+            <field name="name">every 28 days</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_19">
+            <field name="name">every month</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_20">
+            <field name="name">as needed</field>
+        </record>
+        <record model="galeno.medicament.frequency" id="freq_21">
+            <field name="name">1 time</field>
+        </record>
+
+    </data>
+</tryton>

@@ -3441,3 +3441,147 @@ msgstr "VDRL"
 msgctxt "model:galeno.test,name:test_60"
 msgid "ZIEHL"
 msgstr "ZIEHL"
+
+msgctxt "model:galeno.medicament.dose.unit,description:kg"
+msgid "kilogram"
+msgstr "kilogramo"
+
+msgctxt "model:galeno.medicament.dose.unit,description:l"
+msgid "liter"
+msgstr "litro"
+
+msgctxt "model:galeno.medicament.dose.unit,description:mg"
+msgid "milligram"
+msgstr "miligramo"
+
+msgctxt "model:galeno.medicament.dose.unit,description:ml"
+msgid "milliliter"
+msgstr "mililitro"
+
+msgctxt "model:galeno.medicament.dose.unit,description:mmol"
+msgid "millimol"
+msgstr "milimol"
+
+msgctxt "model:galeno.medicament.dose.unit,description:ug"
+msgid "microgram"
+msgstr "microgramo"
+
+msgctxt "model:galeno.medicament.dose.unit,description:unit"
+msgid "unit"
+msgstr "unidad"
+
+msgctxt "model:galeno.medicament.dose.unit,name:"
+msgid "Drug Dose Unit"
+msgstr "Unidad de la dosis de fármacos"
+
+msgctxt "model:galeno.medicament.dose.unit,name:kg"
+msgid "kg"
+msgstr "kg"
+
+msgctxt "model:galeno.medicament.dose.unit,name:l"
+msgid "L"
+msgstr "L"
+
+msgctxt "model:galeno.medicament.dose.unit,name:mg"
+msgid "mg"
+msgstr "mg"
+
+msgctxt "model:galeno.medicament.dose.unit,name:ml"
+msgid "mL"
+msgstr "mL"
+
+msgctxt "model:galeno.medicament.dose.unit,name:mmol"
+msgid "mmol"
+msgstr "mmol"
+
+msgctxt "model:galeno.medicament.dose.unit,name:ug"
+msgid "ug"
+msgstr "ug"
+
+msgctxt "model:galeno.medicament.dose.unit,name:unit"
+msgid "unit"
+msgstr "unidad"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_1"
+msgid "1 time per day"
+msgstr "1 vez al día"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_2"
+msgid "1 time per day in the morning"
+msgstr "1 vez al día por la mañana"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_3"
+msgid "1 time per day in the evening"
+msgstr "1 vez al día por la tarde"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_4"
+msgid "1 time per day at bedtime"
+msgstr "1 vez al día al acostarse"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_5"
+msgid "2 times per day"
+msgstr "2 veces al día"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_6"
+msgid "3 times per day"
+msgstr "3 veces al día"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_7"
+msgid "3 times per day, before meals"
+msgstr "3 veces al día, antes de las comidas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_8"
+msgid "3 times per day, with meals"
+msgstr "3 veces al día, con las comidas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_9"
+msgid "4 times per day"
+msgstr "4 veces al día"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_10"
+msgid "every 2 hours"
+msgstr "cada 2 horas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_11"
+msgid "every 4 hours"
+msgstr "cada 4 horas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_12"
+msgid "every 6 hours"
+msgstr "cada 6 horas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_13"
+msgid "every 8 hours"
+msgstr "cada 8 horas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_14"
+msgid "every 12 hours"
+msgstr "cada 12 horas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_15"
+msgid "every other day"
+msgstr "cada dos días"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_16"
+msgid "1 time per week"
+msgstr "1 vez por semana"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_17"
+msgid "every two weeks"
+msgstr "cada 2 semanas"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_18"
+msgid "every 28 days"
+msgstr "cada 28 días"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_19"
+msgid "every month"
+msgstr "cada mes"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_20"
+msgid "as needed"
+msgstr "según sea necesario"
+
+msgctxt "model:galeno.medicament.frequency,name:freq_21"
+msgid "1 time"
+msgstr "1 vez"
