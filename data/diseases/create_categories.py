@@ -15,7 +15,7 @@ def create_categories(host, port, database, username, password, filename):
         fieldnames = ['code', 'name', 'parent']
         reader = csv.DictReader(
             category_file, delimiter='|', fieldnames=fieldnames)
-        reader.next()  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             if row['parent'] != '':
                 parent, = Category.find([('code', '=', row['parent'])])

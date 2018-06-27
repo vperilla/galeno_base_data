@@ -16,7 +16,7 @@ def translate_groups(host, port, database, username, password, filename):
         fieldnames = ['code', 'name', 'parent']
         reader = csv.DictReader(
             group_file, delimiter=';', fieldnames=fieldnames)
-        reader.next()  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             group, = Group.find([('code', '=', row['code'])])
             group.name = row['name']

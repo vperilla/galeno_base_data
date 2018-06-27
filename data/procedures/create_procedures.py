@@ -17,10 +17,10 @@ def create_procedures(host, port, database, username, password, filename):
         fieldnames = ['code', 'name']
         reader = csv.DictReader(
             procedure_file, delimiter='|', fieldnames=fieldnames)
-        reader.next()  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             cont += 1
-            print(cont, row)
+            print((cont, row))
             procedure = Procedure()
             for field in row:
                 if row[field] == '':

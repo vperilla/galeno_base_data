@@ -49,7 +49,7 @@ class ImportICD10(Wizard):
             fieldnames = ['code', 'name', 'description', 'information']
             reader = csv.DictReader(
                 group_file, delimiter='|', fieldnames=fieldnames)
-            reader.next()  # Skip header
+            next(reader)  # Skip header
             for row in reader:
                 group = Group()
                 for field in row:
@@ -66,7 +66,7 @@ class ImportICD10(Wizard):
             fieldnames = ['code', 'name', 'parent']
             reader = csv.DictReader(
                 category_file, delimiter='|', fieldnames=fieldnames)
-            reader.next()  # Skip header
+            next(reader)  # Skip header
             for row in reader:
                 if row['parent'] != '':
                     parent, = Category.search([('code', '=', row['parent'])])
@@ -93,7 +93,7 @@ class ImportICD10(Wizard):
                 'protein', 'gene', 'information', 'active']
             reader = csv.DictReader(
                 disease_file, delimiter='|', fieldnames=fieldnames)
-            reader.next()  # Skip header
+            next(reader)  # Skip header
             for row in reader:
                 print(row)
                 disease = Disease()
@@ -124,7 +124,7 @@ class ImportICD10(Wizard):
             fieldnames = ['code', 'name']
             reader = csv.DictReader(
                 procedure_file, delimiter='|', fieldnames=fieldnames)
-            reader.next()  # Skip header
+            next(reader)  # Skip header
             for row in reader:
                 print(row)
                 record = []

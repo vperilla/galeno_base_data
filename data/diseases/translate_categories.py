@@ -16,7 +16,7 @@ def translate_categories(host, port, database, username, password, filename):
         fieldnames = ['code', 'name', 'parent']
         reader = csv.DictReader(
             category_file, delimiter=';', fieldnames=fieldnames)
-        reader.next()  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             category, = Category.find([('code', '=', row['code'])])
             category.name = row['name']

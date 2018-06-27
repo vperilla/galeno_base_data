@@ -1,15 +1,12 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # This file is part of Tryton.  The COPYRIGHT file at the top level of
 # this repository contains the full copyright notices and license terms.
 
-from setuptools import setup, find_packages
-import re
-import os
 import io
-try:
-    from configparser import ConfigParser
-except ImportError:
-    from ConfigParser import ConfigParser
+import os
+import re
+from configparser import ConfigParser
+from setuptools import setup
 
 
 def read(fname):
@@ -26,6 +23,7 @@ def get_require_version(name):
     require %= (name, major_version, minor_version,
         major_version, minor_version + 1)
     return require
+
 
 config = ConfigParser()
 config.readfp(open('tryton.cfg'))
@@ -60,22 +58,22 @@ if minor_version % 2:
 
 setup(name=name,
     version=version,
-    description='',
+    description='Base data for Galeno including ICD10',
     long_description=read('README'),
-    author='Galeno',
-    author_email='issue_tracker@tryton.org',
+    author='Diego Abad A.',
+    author_email='dabada83@gmail.com',
     url='http://www.galeno.io',
     download_url=download_url,
-    keywords='',
+    keywords='tryton galeno medical icd10',
     package_dir={'trytond.modules.galeno_base_data': '.'},
-    packages=(
-        ['trytond.modules.galeno_base_data'] +
-        ['trytond.modules.galeno_base_data.%s' % p for p in find_packages()]
-        ),
+    packages=[
+        'trytond.modules.galeno',
+        'trytond.modules.galeno.tests',
+        ],
     package_data={
         'trytond.modules.galeno_base_data': (info.get('xml', [])
             + ['tryton.cfg', 'view/*.xml', 'locale/*.po', '*.fodt',
-                'icons/*.svg', 'tests/*.rst']),
+                'icons/*.svg', 'tests/*.rst', 'data/*.xml']),
         },
     classifiers=[
         'Development Status :: 5 - Production/Stable',
@@ -102,7 +100,6 @@ setup(name=name,
         'Natural Language :: Slovenian',
         'Natural Language :: Spanish',
         'Operating System :: OS Independent',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
@@ -111,6 +108,7 @@ setup(name=name,
         'Topic :: Office/Business',
         ],
     license='GPL-3',
+    python_requires='>=3.4',
     install_requires=requires,
     dependency_links=dependency_links,
     zip_safe=False,

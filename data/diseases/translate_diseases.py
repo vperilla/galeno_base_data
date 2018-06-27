@@ -17,7 +17,7 @@ def translate_diseases(host, port, database, username, password, filename):
             'protein', 'gene', 'information', 'active']
         reader = csv.DictReader(
             disease_file, delimiter=';', fieldnames=fieldnames)
-        reader.next()  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             print(row)
             disease, = Disease.find([('code', '=', row['code'])])
