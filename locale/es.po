@@ -207,8 +207,8 @@ msgid "Contraceptive method of polyethylene in the form of T, with the ability t
 msgstr "Método anticonceptivo de polietileno en forma de T, con la capacidad de liberar en forma continua un componente hormonal (levonorgestrel 20ug/día).\n Igual que en el DIU-Cu, dos hilos se unen al extremo que queda cerca al orificio cervical externo. Su uso puede ser por 5 años."
 
 msgctxt "model:galeno.contraceptive.method,name:contraceptive_10"
-msgid "Male condom"
-msgstr "Condón masculino"
+msgid "Condom"
+msgstr "Condón"
 
 msgctxt "model:galeno.contraceptive.method,description:contraceptive_10"
 msgid "Barrier method that prevents contact between semen and vaginal mucosa. The only method that also protects against sexually transmitted infections. Another technical name can be a condom. Cover or cover of latex that is placed on the erect penis of man."
@@ -3153,6 +3153,10 @@ msgstr "Afroamericano"
 msgctxt "model:galeno.ethnic.group,name:eth7"
 msgid "Indian American"
 msgstr "Indio Americano"
+
+msgctxt "model:galeno.ethnic.group,name:eth8"
+msgid "Mestizo"
+msgstr "Mestizo"
 
 msgctxt "model:galeno.test.category,name:category_test_1"
 msgid "Laboratory (BACTEREOLOGY)"

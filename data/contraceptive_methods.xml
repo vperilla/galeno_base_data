@@ -52,8 +52,8 @@ It has 2 polyethylene guide wires that remain at the level of the vagina for con
             <field name="description">Contraceptive method of polyethylene in the form of T, with the ability to continuously release a hormonal component (levonorgestrel 20ug / day). As in the Cu-IUD, two wires are attached to the end that is close to the external cervical os. Its use can be for 5 years.</field>
         </record>
         <record model="galeno.contraceptive.method" id="contraceptive_10">
-            <field name="gender">male</field>
-            <field name="name">Male condom</field>
+            <field name="gender">unisex</field>
+            <field name="name">Condom</field>
             <field name="description">Barrier method that prevents contact between semen and vaginal mucosa. The only method that also protects against sexually transmitted infections. Another technical name can be a condom. Cover or cover of latex that is placed on the erect penis of man.</field>
         </record>
         <record model="galeno.contraceptive.method" id="contraceptive_11">
