@@ -45,7 +45,7 @@ class ImportICD10(Wizard):
         cursor = Transaction().connection.cursor()
         lang = self.start.language.code
         path = 'galeno_base_data/data/diseases/groups_' + lang + '.csv'
-        with file_open(path, mode='r') as group_file:
+        with file_open(path, mode='r', encoding='utf-8') as group_file:
             fieldnames = ['code', 'name', 'description', 'information']
             reader = csv.DictReader(
                 group_file, delimiter='|', fieldnames=fieldnames)
@@ -62,7 +62,7 @@ class ImportICD10(Wizard):
                 group.save()
 
         path = 'galeno_base_data/data/diseases/categories_' + lang + '.csv'
-        with file_open(path, mode='r') as category_file:
+        with file_open(path, mode='r', encoding='utf-8') as category_file:
             fieldnames = ['code', 'name', 'parent']
             reader = csv.DictReader(
                 category_file, delimiter='|', fieldnames=fieldnames)
@@ -88,7 +88,7 @@ class ImportICD10(Wizard):
 
         to_save = []
         path = 'galeno_base_data/data/diseases/diseases_' + lang + '.csv'
-        with file_open(path, mode='r') as disease_file:
+        with file_open(path, mode='r', encoding='utf-8') as disease_file:
             fieldnames = ['code', 'name', 'category', 'groups', 'chromosome',
                 'protein', 'gene', 'information', 'active']
             reader = csv.DictReader(
@@ -119,7 +119,7 @@ class ImportICD10(Wizard):
         columns = [table.code, table.name, table.core]
         values = []
         path = 'galeno_base_data/data/procedures/procedures_' + lang + '.csv'
-        with file_open(path, mode='r') as procedure_file:
+        with file_open(path, mode='r', encoding='utf-8') as procedure_file:
             fieldnames = ['code', 'name']
             reader = csv.DictReader(
                 procedure_file, delimiter='|', fieldnames=fieldnames)

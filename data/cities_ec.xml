@@ -1555,5 +1555,15 @@
                 <field name="parent" ref="country.ec-z"/>
                 <field name="country" ref="country.ec"/>
         </record>
+
+        <record model="ir.model.access" id="access_subdivision_galeno">
+            <field name="model"
+                search="[('model', '=', 'country.subdivision')]"/>
+            <field name="group" ref="galeno.group_galeno"/>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="False"/>
+            <field name="perm_create" eval="False"/>
+            <field name="perm_delete" eval="False"/>
+        </record>
     </data>
 </tryton>
