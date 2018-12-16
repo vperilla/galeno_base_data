@@ -6,7 +6,7 @@ import io
 import os
 import re
 from configparser import ConfigParser
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 def read(fname):
@@ -26,7 +26,7 @@ def get_require_version(name):
 
 
 config = ConfigParser()
-config.readfp(open('tryton.cfg'))
+config.read_file(open('tryton.cfg'))
 info = dict(config.items('tryton'))
 for key in ('depends', 'extras_depend', 'xml'):
     if key in info:
@@ -66,10 +66,10 @@ setup(name=name,
     download_url=download_url,
     keywords='tryton galeno medical icd10',
     package_dir={'trytond.modules.galeno_base_data': '.'},
-    packages=[
-        'trytond.modules.galeno',
-        'trytond.modules.galeno.tests',
-        ],
+    packages=(
+        ['trytond.modules.galeno_base_data'] +
+        ['trytond.modules.galeno_base_data_.%s' % p for p in find_packages()]
+        ),
     package_data={
         'trytond.modules.galeno_base_data': (info.get('xml', [])
             + ['tryton.cfg', 'view/*.xml', 'locale/*.po', '*.fodt',
@@ -103,6 +103,7 @@ setup(name=name,
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Office/Business',
@@ -119,5 +120,4 @@ setup(name=name,
     test_suite='tests',
     test_loader='trytond.test_loader:Loader',
     tests_require=tests_require,
-    use_2to3=True,
     )

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tryton>
     <data skiptest="1" noupdate="1">
+
             <record model="country.subdivision" id="ec-a1">
                 <field name="name">Camilo Ponce Enriquez</field>
                 <field name="code">EC-A1</field>
