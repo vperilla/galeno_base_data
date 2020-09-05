@@ -68,7 +68,7 @@ setup(name=name,
     package_dir={'trytond.modules.galeno_base_data': '.'},
     packages=(
         ['trytond.modules.galeno_base_data'] +
-        ['trytond.modules.galeno_base_data_.%s' % p for p in find_packages()]
+        ['trytond.modules.galeno_base_data.%s' % p for p in find_packages()]
         ),
     package_data={
         'trytond.modules.galeno_base_data': (info.get('xml', [])
